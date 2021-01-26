@@ -1,0 +1,35 @@
+{
+    "name": "project 1 cats guest",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.10.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.3.42",
+        "tag": "v1.3.42",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/c88a8b13fd6e5949711b13aeecab95275d89e95f",
+        "target": "1.3.42",
+        "pxt": "6.8.32",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
